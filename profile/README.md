@@ -2,8 +2,16 @@
 
 Chat with friends, create communities, and connect from anywhere. With Wecordy, communication has never been easier.
 
-![Wecordy Chat Interface](assets/chat-interface.jpg)
-![Wecordy Voice Channels](assets/voice-channels.jpg)
+<table>
+<tr>
+<td width="50%">
+<img src="../assets/chat-interface.jpg" alt="Wecordy Chat Interface" width="100%">
+</td>
+<td width="50%">
+<img src="../assets/voice-channels.jpg" alt="Wecordy Voice Channels" width="100%">
+</td>
+</tr>
+</table>
 
 ## ✨ Features
 
