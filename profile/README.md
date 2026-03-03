@@ -5,10 +5,10 @@ Chat with friends, create communities, and connect from anywhere. With Wecordy, 
 <table>
 <tr>
 <td width="50%">
-  <img width="1592" height="818" alt="image" src="https://github.com/user-attachments/assets/7fe87e17-6f05-4726-9b46-e3bd132544ab" />
+  <img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/7fe87e17-6f05-4726-9b46-e3bd132544ab" />
 </td>
 <td width="50%">
-   <img width="1592" height="818" alt="image1" src="https://github.com/user-attachments/assets/a5b84541-d19e-47a2-b773-eedfbd473966" />
+   <img width="1500" height="900" alt="imag12e" src="https://github.com/user-attachments/assets/8fe717d0-77ce-41f8-9de7-619ae3a188ad" />
 </td>
 </tr>
 </table>
